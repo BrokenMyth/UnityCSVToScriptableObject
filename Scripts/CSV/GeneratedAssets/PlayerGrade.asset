@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 759d09312efb1da4482e026b1fc857f9, type: 3}
+  m_Name: PlayerGrade
+  m_EditorClassIdentifier: 
+  dataList:
+  - Level: 1
+    MaxBlood: 100
+    NextExperience: 100
+  - Level: 2
+    MaxBlood: 120
+    NextExperience: 120
+  - Level: 3
+    MaxBlood: 140
+    NextExperience: 144
+  - Level: 4
+    MaxBlood: 160
+    NextExperience: 173
+  - Level: 5
+    MaxBlood: 180
+    NextExperience: 207
+  - Level: 6
+    MaxBlood: 200
+    NextExperience: 249
+  - Level: 7
+    MaxBlood: 220
+    NextExperience: 299
+  - Level: 8
+    MaxBlood: 240
+    NextExperience: 358
+  - Level: 9
+    MaxBlood: 260
+    NextExperience: 430
+  - Level: 10
+    MaxBlood: 280
+    NextExperience: 516
+  - Level: 11
+    MaxBlood: 300
+    NextExperience: 619
+  - Level: 12
+    MaxBlood: 320
+    NextExperience: 743
+  - Level: 13
+    MaxBlood: 340
+    NextExperience: 892
+  - Level: 14
+    MaxBlood: 360
+    NextExperience: 1070
+  - Level: 15
+    MaxBlood: 380
+    NextExperience: 1284
+  - Level: 16
+    MaxBlood: 400
+    NextExperience: 1541
+  - Level: 17
+    MaxBlood: 420
+    NextExperience: 1849
+  - Level: 18
+    MaxBlood: 440
+    NextExperience: 2219
+  - Level: 19
+    MaxBlood: 460
+    NextExperience: 2662
+  - Level: 20
+    MaxBlood: 480
+    NextExperience: 3195
+  - Level: 21
+    MaxBlood: 500
+    NextExperience: 3834
+  - Level: 22
+    MaxBlood: 520
+    NextExperience: 4601
+  - Level: 23
+    MaxBlood: 540
+    NextExperience: 5521
+  - Level: 24
+    MaxBlood: 560
+    NextExperience: 6625
+  - Level: 25
+    MaxBlood: 580
+    NextExperience: 7950
+  - Level: 26
+    MaxBlood: 600
+    NextExperience: 9540
+  - Level: 27
+    MaxBlood: 620
+    NextExperience: 11448
+  - Level: 28
+    MaxBlood: 640
+    NextExperience: 13737
+  - Level: 29
+    MaxBlood: 660
+    NextExperience: 16484
+  - Level: 30
+    MaxBlood: 680
+    NextExperience: 19781
